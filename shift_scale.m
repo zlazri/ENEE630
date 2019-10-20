@@ -4,7 +4,7 @@ function x_new = shift_scale(x, N, M)
 %
 % x: The input signal
 %
-% N: The number of time units the we wish to shift the input signal (left)
+% n: The number of time units the we wish to shift the input signal (left)
 %
 % M: The magnitude by which we scale the input signal
 %
